@@ -1,7 +1,9 @@
 ![logo](https://github.com/missionshrestha/missionshrestha/blob/main/Mission_Shrestha.png)
 
-<h1 align="center">Hi 👋, I'm Mission Shrestha</h1>
-<h3 align="center">A passionate computer engineering student from Nepal.</h3>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3500&pause=500&color=F7F7F7&background=9BFF1300&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mission+Shrestha" alt="Typing SVG" /></h1>
+  
+  <h3 align="center">A passionate computer engineering student from Nepal.</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
