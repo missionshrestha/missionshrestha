@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on [Pashupati Mart](https://github.com/missionshrestha/Pashupati-Market)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Data Engineering & Data Science**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack** & **Data Engineering**
 
 - 📫 How to reach me **missionshrestha99@gmail.com**
 
