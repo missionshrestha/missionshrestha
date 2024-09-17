@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on [Pashupati Mart](https://github.com/missionshrestha/Pashupati-Market)
 
-- 🌱 I’m currently learning **Data Engineering & Data Science**
+- 🌱 I’m currently learning **Django, Celery, Redis, CronJobs, Automation**
 
-- 💬 Ask me about **MERN Stack** & **Data Engineering**
+- 💬 Ask me about **MERN Stack**, **Data Engineering**  & **Django**
 
 - 📫 How to reach me **missionshrestha99@gmail.com**
 
